@@ -2,3 +2,9 @@ body {
     background-color: beige;
 
 }
+header {
+    text-align: center;
+    background-color: brown;
+    padding: 15px;
+    color: white;
+}
